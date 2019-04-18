@@ -19,4 +19,4 @@ This working group is open to anyone.  Please forward to anyone who you might be
   (Short URL https://goo.gl/u2FBHV) 
 - Shared Folder https://drive.google.com/open?id=1lxLeCInakDxTP27Bu5OgCA00ettBuMqO
 - Cal Invite Link: https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Jvb3F1bWtrZjNpNWJucWg3OXVlZnN0bmpfMjAxOTA0MDRUMTcwMDAwWiB2cmV0ZW5AbQ&tmsrc=vreten%40gmail.com&scp=ALL
-- Group Page / Website: http://aicc.github.io/CMI-5_Spec_Current/
+- Group Page / Website: https://github.com/patrickselby/xAPI-Social-Profile
